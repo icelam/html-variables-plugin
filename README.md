@@ -2,6 +2,9 @@
 
 This is a plugin designed for injecting variables to HTML templates via HtmlWebpackPlugin. To use this plugin, add this to your webpack right after the HtmlWebpackPlugin. This plugin accepts an object as parameter, which contains key value pairs of the variables to be injected.
 
+## Installation ##
+* `npm i html-variables-plugin`
+
 ## Usage ##
 The following example declars a variable named 'foo', which it's value is 'bar'.
 
